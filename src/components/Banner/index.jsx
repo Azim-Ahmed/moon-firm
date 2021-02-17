@@ -18,7 +18,7 @@ const Banner = () => {
           <div class="container">
             <div class="carousel-caption relative">
               <h1>Moon</h1>
-              <span>FARMING COMPANY</span>
+              <span>FARMING </span>
 
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
