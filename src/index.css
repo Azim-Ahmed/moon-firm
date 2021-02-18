@@ -825,3 +825,95 @@ ul.Links_footer li {
 .btn-primary:focus {
   box-shadow: inherit;
 }
+
+.brand_color {
+  background-color: #ddd;
+}
+.brand_color .titlepage {
+  margin-top: 90px;
+  padding-bottom: 90px;
+}
+
+.brand_color .abouttitle h2 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: 45px;
+  padding: 40px 0;
+  font-weight: 500;
+  text-align: center;
+}
+.contact-page .Contact {
+  margin-top: 0px;
+}
+.contact-page .form-control {
+  margin-bottom: 20px;
+}
+
+/** slider arrow **/
+
+#myCarousel .carousel-control-prev,
+#myCarousel .carousel-control-next {
+  width: 62px;
+  height: 60px;
+  background: #fffdfd;
+  opacity: 1;
+  font-size: 30px;
+  color: #000;
+}
+
+#myCarousel .carousel-control-prev:hover,
+#myCarousel .carousel-control-next:hover,
+#myCarousel .carousel-control-prev:focus,
+#myCarousel .carousel-control-next:focus {
+  background: #ff0000;
+  color: #fff;
+}
+
+#myCarousel a.carousel-control-prev {
+  position: absolute;
+  left: 82px;
+  bottom: 10px;
+  top: inherit;
+}
+
+#myCarousel a.carousel-control-next {
+  position: absolute;
+  left: 10px;
+  top: inherit;
+  bottom: 10px;
+}
+
+.special-page .relative {
+  text-align: center !important;
+}
+
+.special-page .footer {
+  margin-top: 90px;
+}
+
+/*--------------------------------------------------------------------- inner_page css ---------------------------------------------------------------------*/
+
+.brand_color {
+  background-color: #ddd;
+}
+.brand_color .titlepage {
+  margin-top: 90px;
+  padding-bottom: 90px;
+}
+
+.brand_color .abouttitle h2 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: 45px;
+  padding: 40px 0;
+  font-weight: 500;
+  text-align: center;
+}
+.contact-page .Contact {
+  margin-top: 0px;
+}
+.contact-page .form-control {
+  margin-bottom: 20px;
+}

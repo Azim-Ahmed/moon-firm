@@ -3,7 +3,6 @@ import emailOne from "../../assets/icon/email1.png";
 import callOne from "../../assets/icon/call1.png";
 import searchIcon from "../../assets/images/search_icon.png";
 import logo from "../../assets/images/logo.png";
-// import "./NavSection.css";
 const NavSection = () => {
   return (
     <header>
@@ -15,7 +14,7 @@ const NavSection = () => {
               <div class="full">
                 <div class="center-desk">
                   <div class="logo">
-                    <a href="/">
+                    <a href="#/">
                       <img src={logo} alt="#" />
                     </a>
                   </div>
@@ -51,7 +50,7 @@ const NavSection = () => {
                       <nav class="main-menu">
                         <ul class="menu-area-main">
                           <li class="active">
-                            <a href="index.html">Home</a>
+                            <a href="#/">Home</a>
                           </li>
                           <li>
                             <a href="#about">About</a>

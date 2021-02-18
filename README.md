@@ -4,4 +4,4 @@
 
 ### download or clone it and use yarn / yarn install
 
-### Converted ny Azim Uddin Ahamed
+### Converted by Azim Uddin Ahamed
